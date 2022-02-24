@@ -1,0 +1,3 @@
+color: true
+file:
+  - "./out/tests/index.js"

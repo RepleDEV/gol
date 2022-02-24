@@ -1,0 +1,10 @@
+# Node stuff
+node_modules/
+out/index.js
+out/tests
+
+# WASM
+wasm/
+
+# MISC
+.vscode/

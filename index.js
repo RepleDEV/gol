@@ -1,0 +1,1 @@
+module.export = require("./out/index.js");
